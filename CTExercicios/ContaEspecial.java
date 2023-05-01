@@ -1,4 +1,4 @@
-package CTExercio01;
+package CTExercicios;
 /*
  * Crie a hierarquia de classes utilizada como exemplo nesta aula: crie a clas-
 *  se ContaEspecial (Figura 4.1) e ContaPoupanca (Figura 4.2), crie os cons-

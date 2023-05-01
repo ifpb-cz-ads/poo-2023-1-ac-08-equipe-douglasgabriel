@@ -1,4 +1,4 @@
-package CTExercio01;
+package CTExercicios;
 import java.util.Scanner;
 
 public class UseContaPolimorfa {

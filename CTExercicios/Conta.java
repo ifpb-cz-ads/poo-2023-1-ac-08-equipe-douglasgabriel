@@ -1,4 +1,4 @@
-package CTExercio01;
+package CTExercicios;
 public class Conta {
     protected int numero;
     protected String nomeTitular;

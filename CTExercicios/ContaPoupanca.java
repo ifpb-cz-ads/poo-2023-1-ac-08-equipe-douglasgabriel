@@ -1,4 +1,4 @@
-package CTExercio01;
+package CTExercicios;
 public class ContaPoupanca extends Conta {
 
     public ContaPoupanca(int numero, String nomeTitular){
