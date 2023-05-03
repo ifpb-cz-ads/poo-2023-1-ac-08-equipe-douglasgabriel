@@ -1,4 +1,4 @@
-import java.util.Set;
+// Classe referente à questão 4
 
 public class Equipamento{
     private boolean funciona; // Funciona ou não
@@ -9,7 +9,7 @@ public class Equipamento{
         this.funciona = true;
     }
 
-    // Get's e Set's 
+    // Get's e Set's referentes à questão 6
     public int getNumSerie() {
         return numSerie;
     }

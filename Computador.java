@@ -1,8 +1,9 @@
+// Classe referente à questão 5
 public class Computador extends Equipamento {
     private int arm; // Capacidade de armazenamento
     private String nomeComp; // Nome do computador 
 
-    // Get's e Set's 
+    // Get's e Set's referentes à questão 6
     public String getNomeComp() {
         return nomeComp;
     }
